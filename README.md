@@ -74,6 +74,33 @@ print("RMSE = ", rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+## HEAD:
+<img width="291" height="245" alt="image" src="https://github.com/user-attachments/assets/a276e530-eda8-4001-adfe-1d99fae1c0bd" /> 
+
+## TAIL:
+<img width="264" height="246" alt="Screenshot 2025-08-24 190948" src="https://github.com/user-attachments/assets/3e0b311a-a72c-4d16-a614-dc8ede511b4f" />
+
+## X:
+<img width="309" height="561" alt="Screenshot 2025-08-24 191001" src="https://github.com/user-attachments/assets/00a78cbc-618f-4161-84ee-6cd04c8d52f4" />
+
+## Y:
+<img width="754" height="92" alt="Screenshot 2025-08-24 191016" src="https://github.com/user-attachments/assets/706f0ba8-191d-4f8f-927a-7e49ae0f225d" />
+
+## Y_PRED:
+<img width="714" height="69" alt="Screenshot 2025-08-24 191026" src="https://github.com/user-attachments/assets/54ae55b9-6714-4517-9499-44c4390c240f" />
+
+## Y_TEST:
+<img width="557" height="39" alt="Screenshot 2025-08-24 191035" src="https://github.com/user-attachments/assets/3d97a88a-ba3d-4e27-aa37-4abddb974fa1" />
+
+## TRAINING SET:
+<img width="786" height="583" alt="Screenshot 2025-08-24 191043" src="https://github.com/user-attachments/assets/b87a474c-8fbb-44cc-aa9b-03f9c8a3a761" />
+
+## TEST SET:
+<img width="730" height="582" alt="Screenshot 2025-08-24 191050" src="https://github.com/user-attachments/assets/6a2d54ff-9d73-44af-817b-98104bb937b2" />
+
+## VALUES:
+<img width="308" height="87" alt="Screenshot 2025-08-24 191055" src="https://github.com/user-attachments/assets/971c038b-952b-4ca8-89cf-989a2948dd17" />
+
 
 
 ## Result:
