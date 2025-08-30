@@ -12,7 +12,6 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Split dataset into training and testing sets.
 3. Train the model using Simple Linear Regression and predict results.
 4. Evaluate performance and predict marks for new input.
-5. 
 ## Program:
 ```
 /*
